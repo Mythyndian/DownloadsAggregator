@@ -1,0 +1,13 @@
+downloads = "C:\\Users\\g3n3ric_us3r\\Downloads"
+
+[images]
+folder = "Images"
+formats = [".png",".jpeg"]
+
+[executables]
+folder = "Executables"
+formats = [".msi", ".exe"]
+
+[text]
+folder = "Text"
+formats = [".pdf", ".docx", ".rtf", ".mobi"]
