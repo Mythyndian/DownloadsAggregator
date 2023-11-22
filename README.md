@@ -20,7 +20,10 @@ Short python script for sorting files in your desired directory by it's file ext
 ### Executing program
 
 * Before running the script edit config.toml file.
-```cd DownloadsAggregator``` 
-```python3 main.py```
+* ```
+cd DownloadsAggregator
+python3 main.py
+``` 
+
 
 
