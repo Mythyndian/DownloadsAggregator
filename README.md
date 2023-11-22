@@ -1,9 +1,5 @@
 # DownloadsAggregator
 
-Simple overview of use/purpose.
-
-## Description
-
 Short python script for sorting files in your desired directory by it's file extension.
 
 ## Getting Started
@@ -20,10 +16,12 @@ Short python script for sorting files in your desired directory by it's file ext
 ### Executing program
 
 * Before running the script edit config.toml file.
-* ```
+```
 cd DownloadsAggregator
+```
+```
 python3 main.py
-``` 
+```
 
 
 
