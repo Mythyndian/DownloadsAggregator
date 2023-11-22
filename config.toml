@@ -1,13 +1,66 @@
-downloads = "C:\\Users\\g3n3ric_us3r\\Downloads"
+downloads = ""
 
 [images]
 folder = "Images"
-formats = [".png",".jpeg"]
+formats = [
+    ".ai",
+    ".png",
+    ".jpg",
+    ".gif",
+    ".bmp",
+    ".ico",
+    ".ps",
+    ".psd",
+    ".svg",
+    ".webp",
+    ".tiff",
+    ".tif",
+]
 
 [executables]
 folder = "Executables"
-formats = [".msi", ".exe"]
+formats = [".msi", ".exe", ".bat", ".apk", ".com", ".jar", ".dmg"]
 
 [text]
 folder = "Text"
-formats = [".pdf", ".docx", ".rtf", ".mobi"]
+formats = [".pdf", ".docx", ".rtf", ".mobi", ".txt", ".epub"]
+
+[archives]
+folder = "Archives"
+formats = [".rar", ".zip", ".7z", ".arj", ".deb", ".pkg", ".rpm", ".tar.gz"]
+
+[videos]
+folder = "Videos"
+formats = [
+    ".3g2",
+    ".3gp",
+    ".avi",
+    ".flv",
+    ".h264",
+    ".m4v",
+    ".mkv",
+    ".mov",
+    ".mp4",
+    ".mpg",
+    ".mpeg",
+    ".rm",
+    ".swf",
+    ".vob",
+    ".webm",
+    ".wmv",
+]
+
+[music]
+folder = "Music"
+formats = [
+    ".aif",
+    ".cda",
+    ".mid",
+    ".midi",
+    ".mp3",
+    ".mpa",
+    ".ogg",
+    ".wav",
+    ".wma",
+    ".wpl",
+]
